@@ -1,1 +1,66 @@
+# 📚 Online Book Store SQL Project
+
+### Database Management & Data Analysis Using MySQL
+
+## 📌 About the Project
+
+The Online Book Store SQL Project is designed to manage and analyze bookstore data using MySQL. This project involves creating relational database tables, importing CSV datasets, and performing SQL queries to extract meaningful business insights.
+
+## 🛠️ Technologies Used
+- MySQL
+- MySQL Workbench
+- SQL
+- CSV Datasets
+
+## 🗄️ Database Tables
+
+The project contains four tables:
+
+1. **Books** – Book details, authors, genres, prices, and stock.
+2. **Customers** – Customer information and location details.
+3. **Orders** – Customer order records.
+4. **Order_Items** – Details of books included in orders.
+
+## 🔍 SQL Skills Demonstrated
+
+- Database & Table Creation
+- CSV Data Import
+- SELECT & WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+- JOIN Operations
+- Subqueries
+- COUNT()
+- UNION ALL
+
+## 🎯 Business Objectives
+
+- Analyze book inventory and pricing.
+- Explore customer information.
+- Examine order records.
+- Retrieve data from multiple related tables.
+- Identify useful business patterns through SQL queries.
+
+## 📂 Repository Contents
+
+- `Data/` – CSV datasets
+- `SQL/` – Database creation, table creation, data import, and analysis queries.
+- `Screenshots/` – Database schema and SQL query outputs.
+
+## 📈 Key Learnings
+
+- Practical experience in relational database design.
+- Working with multiple tables and relationships.
+- Writing SQL queries for data retrieval and analysis.
+- Using JOINs, GROUP BY, and subqueries to solve business questions.
+
+## 👩‍💻 Author
+
+**Muskan Verma**
+
+Aspiring Data Analyst
+
+**Skills:** SQL | Excel | Power BI | Python
+
 
